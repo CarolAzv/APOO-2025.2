@@ -1,6 +1,7 @@
 Material de Aula:
   Introdução do Desenvolvimento de Sistemas (https://drive.google.com/file/d/1d4GYIT2Ba6REbUSMXoiFlr_CwsN4uaLP/view)
 
+
 Processo   Unificidado:
   Inception
 
@@ -14,5 +15,17 @@ Processo   Unificidado:
   Interação:
     Tempo para realizar tarafa (deadline)
 
+
 O Sistema de Inofrmação (SI) é a combinação de pessoas, dados, processos, interfaces, redes de comunicação e tecnologias que juntões criam e mantem o processo de
 negócio e não apenas o codigo fonte
+
+
+Modelos de Sofftware:
+  Representação idealizada de um sistema a ser feito
+
+Processo Unificado (UP):
+  processo conciso e eficiente para análise e projeto de sistemas de software
+  cada artefato (documento ou diagrama) tem uma razão muito clara para existir e as conexões entre os diferentes artefatos são muito precisas
+
+
+Unified Modeling Language (UML)
