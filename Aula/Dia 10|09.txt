@@ -29,3 +29,24 @@ Processo Unificado (UP):
 
 
 Unified Modeling Language (UML)
+
+
+Software Deselegante:
+  Não possui estrutura clara
+  Pouca reutilização  e dificil entendimento
+  Modificação pode causar errors
+  NÃO SEGUE PRINCINPIOS
+
+
+Análise:
+  Investigação do problema
+    Intrevista de pesssoas ajuda na investigação do problema
+
+Implementação:
+  O projeto já indiga como o codigo deve ser feito, necessitando apenas passar para código
+
+Testes:
+  Unidade:
+    Realizados pelo programador e checa se cada clase está de acordo com o projetado
+  Funcionamento:
+    Normalmente efetua por um analista para ferevicar a adequadação do sistema ao requesitos
