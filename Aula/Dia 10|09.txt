@@ -1,2 +1,18 @@
 Material de Aula:
   Introdução do Desenvolvimento de Sistemas (https://drive.google.com/file/d/1d4GYIT2Ba6REbUSMXoiFlr_CwsN4uaLP/view)
+
+Processo   Unificidado:
+  Inception
+
+  Elaboration (Elaboração)
+
+  Construction (Construção)
+
+  Transition (Transição)
+    Levar a ideia ao físico
+
+  Interação:
+    Tempo para realizar tarafa (deadline)
+
+O Sistema de Inofrmação (SI) é a combinação de pessoas, dados, processos, interfaces, redes de comunicação e tecnologias que juntões criam e mantem o processo de
+negócio e não apenas o codigo fonte
