@@ -1,1 +1,25 @@
 Processo unificado (Introdução do Desenvolvimento de Sistemas | https://drive.google.com/file/d/1d4GYIT2Ba6REbUSMXoiFlr_CwsN4uaLP/view)
+
+Fase de Concepção:
+  Estudo da viabilidade e parte da análise de requisitos
+
+Fase de Elaboração
+  Maior parte da análise, de domínio e o prejeto e validação da arquitetura do sistema
+
+Fase de Construção
+  Programação e teste das funcionalidades
+
+Fase de Transição
+  Instalação no ambiente e manutenção
+
+Concepção
+    Análise de requisitos
+    Escopo do sistema
+    Modelagem dos casos de uso
+    Esboço de modelo conceitual
+    Cronograma de deselvolvimento e desembolso      
+
+Requisitos:
+  Funcionais - que o sistema precisa fazer
+
+  Não-Funcionais - restrições sobre como o sistema deve desempenhar seu papeu
