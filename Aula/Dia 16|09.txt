@@ -23,3 +23,40 @@ Requisitos:
   Funcionais - que o sistema precisa fazer
 
   Não-Funcionais - restrições sobre como o sistema deve desempenhar seu papeu
+
+
+-----------------------------------------------------
+Entrevista – Levantamento de Requisitos
+
+• Perguntas Gerais sobre o Projeto
+1. Qual é o objetivo principal do sistema?
+2. Quem são os usuários finais (personas)?
+3. Existe um sistema legado que será substituído? Quais são seus
+problemas atuais?
+4. Quais métricas de sucesso serão usadas (ex.: tempo de resposta,
+número de usuários simultâneos)?
+
+-----------------------------------------------------
+Entrevista – Levantamento de Requisitos
+
+•Requisitos Funcionais (O QUE o sistema deve fazer)
+1. Quais são as funcionalidades essenciais? (Ex.: cadastro de usuários,
+checkout de pedidos)
+2. Quais regras de negócio devem ser aplicadas? (Ex.: "Desconto de
+10% para compras acima de R$ 100")
+3. Como o sistema deve lidar com casos de erro? (Ex.: e-mail já
+cadastrado, estoque insuficiente)
+4. Quais integrações externas são necessárias? (Ex.: API de
+pagamento, ERP, SMTP)
+
+-----------------------------------------------------
+Entrevista – Levantamento de Requisitos
+
+•Requisitos Não-Funcionais (COMO o sistema deve funcionar)
+1. Qual é o volume esperado de usuários/dados? (Ex.: 1.000
+req/segundo)
+2. Quais são os requisitos de segurança? (Ex.: autenticação com 2FA,
+criptografia de dados)
+3. Qual é a tolerância a falhas? (Ex.: sistema deve estar 99,9%
+disponível)
+4. Há restrições tecnológicas? (Ex.: "Deve rodar em Docker")
