@@ -1,1 +1,7 @@
 Levantamento de Requisitos e Documento de Visão (https://drive.google.com/file/d/1jEjKU7EUL3mOr_KkSfTFB15ad-3-PkUS/view?pli=1)
+
+Fase de Concepção:
+  Levantamento de requisitos
+  Organização de requisitos
+  Planejamento das iterações
+    (Lembre que o deselvolvimento é feito em 4 etapas, Concepção, Elaboração, Construção e Transição)
