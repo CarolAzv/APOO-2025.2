@@ -1,7 +1,73 @@
 Levantamento de Requisitos e Documento de Visão (https://drive.google.com/file/d/1jEjKU7EUL3mOr_KkSfTFB15ad-3-PkUS/view?pli=1)
 
+
 Fase de Concepção:
   Levantamento de requisitos
   Organização de requisitos
   Planejamento das iterações
     (Lembre que o deselvolvimento é feito em 4 etapas, Concepção, Elaboração, Construção e Transição)
+
+Objetivos:
+  Buscar informações sobre o sistema a ser desenvolvido
+  Descobrir se fale a pena seguir com o desenvolvimento
+  Estimar o custo
+
+Levantamento de Requisitos
+  Entrevistas
+  Análise de Documentos
+  Estudo Bibliográfico Comparativo
+
+Requesito desejavel:
+  Não necesario mas é ideal ter, se ouver tempo para fazer se deve
+
+
+
+Requisitos:
+  Permanentes: Sempre ativos
+  Transitórios: Ativos durante apensa durante pequenos periodos Ex.: BlackFriday, Liquida Natal
+
+  Funcionais:
+    Características, capacidade e segurança
+
+  Usabilidade:
+    Fatores humanos, recursos de ajuda e documentação
+
+  Confiabilidade:
+    Frequência de falhas, capacidade de recuperação e previsibilidade
+
+  Desempenho:
+    Tempos de resposta, fluxo de vazão (throughput), precisão, disponibilidade e uso de recursos
+
+  Facilidade de Suporte:
+    Facilidade de adaptação e de manutenção, internacionalização e configurabilidade
+
+  Implementação:
+    Limitações de recursos, linguagens e ferramentas, hardware, etc.
+
+  Interface:
+    Restrições impostas pelas interfaces com sistemas externos
+
+
+
+
+Tabela de Requisitos Funcionais
+
+1. Código do requisito funcional (Ex.: F01, F02, F03, ...)
+
+2. Nome do requisito funcional (especificação curta)
+
+3. Descrição (especificação longa e detalhamento)
+
+4. Categoria funcional: evidente ou oculto
+
+5. Prioridade: ligada à essência do sistema (alta, média, baixa)
+
+Tabela de Requisitos Não Funcionais
+
+1. Código do requisito não funcional
+• (Ex.: NF01, NF02, NF03, ...)
+2. Nome do requisito não funcional (especificação curta)
+3. Descrição: especificação (longa)
+4. Categoria: tipo de restrição – segurança, performance, compatibilidade, etc.
+5. Classificação: desejável ou obrigatório
+6. Permanência: permanente ou transitório
