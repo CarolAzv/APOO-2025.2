@@ -1,10 +1,15 @@
 Atividade em sala
   Criação de relatorio em cima de uma descrição
 
+https://drive.google.com/file/d/1jEjKU7EUL3mOr_KkSfTFB15ad-3-PkUS/view?pli=1
 Analize
 
 Organização dos Requisistos
   *Casos de uso
-    -Função | Atores/Usuarios | Descrição | Referências Cruzadas(
+    -Função | Atores/Usuarios | Descrição | Referências Cruzadas(requisitos)
+    -Na pratica é uma "historía" descritiva do funcionamento
+    -Se muito grande, se pode quebrar o caso de uso
   *"Manutenção" de conceitos
   *Consulta/Relatórios
+  *Função de Conceitos
+    -Diagrama de atributos detalhados com seus timos e relacionamento entre atributos
