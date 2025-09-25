@@ -1,2 +1,10 @@
 Atividade em sala
   Criação de relatorio em cima de uma descrição
+
+Analize
+
+Organização dos Requisistos
+  *Casos de uso
+    -Função | Atores/Usuarios | Descrição | Referências Cruzadas(
+  *"Manutenção" de conceitos
+  *Consulta/Relatórios
