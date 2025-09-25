@@ -19,3 +19,9 @@ Estabelecendo Prioridades
   *Casos de Uso de Apoio
   *Conceitos
   *Consultas
+
+
+Modelo de Casos de Uso
+  *Estratégia para a organização dos requisitos
+  *Muito utilizado no processo de desenvolvimento
+  *Escrever é uma boa tecnica para a compreenção e descrição dos requisítos
