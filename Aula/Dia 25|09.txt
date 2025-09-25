@@ -25,3 +25,7 @@ Modelo de Casos de Uso
   *Estratégia para a organização dos requisitos
   *Muito utilizado no processo de desenvolvimento
   *Escrever é uma boa tecnica para a compreenção e descrição dos requisítos
+  *Ator
+    -algo que interage com o sistema ou que o sistema interagem com
+  *Cenários
+    -Sequência de ações e interações entre ator e sistema
