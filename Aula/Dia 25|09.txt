@@ -13,3 +13,9 @@ Organização dos Requisistos
   *Consulta/Relatórios
   *Função de Conceitos
     -Diagrama de atributos detalhados com seus timos e relacionamento entre atributos
+
+Estabelecendo Prioridades
+  *Casos de Uso Críticos
+  *Casos de Uso de Apoio
+  *Conceitos
+  *Consultas
