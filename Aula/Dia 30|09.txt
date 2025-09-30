@@ -1,0 +1,50 @@
+https://drive.google.com/file/d/1ykuW_h9428oDwlJbWNcgy2jKINHYxebe/view (Slide 3)
+Casos de Uso
+  *Ator
+    -Agente que interage com o sistema ou o sistema interage com
+  *Cenários 
+    – sequência específica de ações e interações entre atores e o sistema
+
+
+Graus de Formalidade
+  *Resumido
+    -resumo de um parágrafo
+  *Informal
+    -Varios parágrafo com varios cenários
+  *Completo
+    -Várias sessões com passos descritos em detalhes
+
+
+Seções de um Caso de Uso Expandido
+  1- Atores envolvidos
+  2- Interessados
+  3- Pré-Condições
+  4- Pós-Condições de Sucesso
+  5- Cenários de fluxo básico e alternativos
+  6- Requisitos Correlacionados
+  7- Variações Tecnológicas
+  8- Frequência de ocorrência
+  9- Questões em Aberto
+
+
+Diagrama de Caso de Uso
+  *Visão externa geral das funções e servisos do sistema
+  *Ajuda a etapa de levantamento de requisitos, fácil entendimento para o cliente
+
+  *Atores
+    -Os atores representam os papéis desempenhados pelos diversos usuários do sistema
+    -Um ator pode representar um hardware especial (dispositivo) ou mesmo outro sistema
+    -Em suma: qualquer agente externo que interaja com o sistema
+
+  *Casos de Uso
+    -Referem-se aos serviços, tarefas ou funções que podem ser utilizadas de alguma maneira pelos usuários do sistema
+    -Representados na forma de elipses o nome do respectivo caso de uso
+
+  *Associações
+    -Entre um ator e um caso de uso (ator pode usar o função do sistema)
+    -Entre dois casos de uso (inclução / extensão / herança*)
+    -Entre dois atores (herança*)
+
+
+
+herança = Generalização/Especialização
