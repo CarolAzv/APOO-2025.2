@@ -1,2 +1,6 @@
 ultima aula de caso de uso | https://drive.google.com/file/d/1ykuW_h9428oDwlJbWNcgy2jKINHYxebe/view?pli=1
 
+Em grafico de caso de uso, atores são representados por bonecos de palitos, independentemente se o ator é uma pessoa, maquina, sistema ou etc
+A representação de caso de uso é uma bolha com sua função escrita dentro
+
+"Gerenciar" pode ser uilizado para se reverir ao conjunto de casos: criar, deletar, atualizar e listar
