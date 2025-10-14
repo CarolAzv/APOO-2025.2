@@ -1,0 +1,14 @@
+Modelo Conceitual
+  artefato do domínio do *problema* não da solução
+  Organização concentual/de conceitos
+  Não existe o conceito de chave em modelo conceitual
+    *conceito de atributo
+  Extrair conceitos de outros documentos/artefatos
+
+Identificação de Conceitos
+  Forma incremental
+  Considera aspectos do caso de uso
+  Reavaliado e incrementado a cada iteração
+  Basea nos requisitos de informações que o sistema tem interese
+  Associações útil
+    *Há necessidade de conhecimento
