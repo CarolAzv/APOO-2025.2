@@ -18,3 +18,5 @@ Multiplicidade nos Relacionamentos (modelo astah)
          _________
    3,5,8|    T    |  Três, cinco ou oito
   ------|_________|
+
+Loçangolo preto = é comporto por
