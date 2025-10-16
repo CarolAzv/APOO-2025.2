@@ -20,3 +20,4 @@ Multiplicidade nos Relacionamentos (modelo astah)
   ------|_________|
 
 Loçangolo preto = é comporto por
+Loçangolo branco = faz parte de
