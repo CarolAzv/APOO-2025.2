@@ -1,0 +1,20 @@
+Multiplicidade nos Relacionamentos (modelo astah)
+         _________
+     *  |    T    |  Zero ou mais
+  ------|_________|
+
+         _________
+   1..* |    T    |   Um ou mais
+  ------|_________|
+
+         _________
+   1..40|    T    |  Um a quareta
+  ------|_________|
+
+         _________
+     5  |    T    |  Exatamente cinco
+  ------|_________|
+
+         _________
+   3,5,8|    T    |  Três, cinco ou oito
+  ------|_________|
