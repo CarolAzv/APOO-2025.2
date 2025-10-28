@@ -1,0 +1,5 @@
+Os três pilares:
+  -Levantamento de Requisitos(?)
+  -Casos de Uso
+  -Documento de Visão
+
